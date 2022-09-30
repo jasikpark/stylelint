@@ -1,5 +1,9 @@
 # Changelog
 
+## 14.13.1
+
+- Fixed: `unit-no-unknown` false positives for font-relative length units ([#6374](https://github.com/stylelint/stylelint/pull/6374)) ([@ybiquitous](https://github.com/ybiquitous)).
+
 ## 14.13.0
 
 - Added: `cacheStrategy` option ([#6357](https://github.com/stylelint/stylelint/pull/6357)) ([@kaorun343](https://github.com/kaorun343)).
